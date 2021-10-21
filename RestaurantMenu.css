@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+#logo{
+    height: 59px;
+    width: 108px;
+}
+nav{
+    background-color: #161c2d;
+}
+#sfg{
+    font-family: 'Major Mono Display', monospace;
+    font-size: x-large;
+    margin-left: -14px;  
+}
+body{
+    background-color: black;
+}
+#footdiv{
+    height: 430px;
+width: 1350px;
+border: 1px solid black;
+position: absolute;
+top: 2620px;
+left: -1px;
+background-color: #000000d4;
+}
+#subdiv
+{
+    height: 70px;
+    width: 1350px;
+    border: 1px solid #161c2d;
+    position: absolute;
+    left: -1px;
+    background-color:#161c2d;
+}
+#addr{
+    position: absolute;
+    top: 2815px;
+    left: 139px;
+    color: white;
+    font-size: large;
+}#social{
+    position: absolute;
+    top: 2815px;
+    left: 618px;
+    color: white;
+    font-size: large;
+}
+#addr1{
+    position: absolute;
+    top: 2900px;
+    left: 139px;
+    color: white;
+    font-size: smaller;
+}
+#hour{
+    position: absolute;
+top: 2815px;
+left: 1063px;
+color: white;
+font-size: large;
+}
+#hour1{
+    position: absolute;
+top: 2900px;
+left: 1066px;
+color: white;
+font-size: smaller;
+}
+#earea{
+    width: 350px;
+    border: 1px solid white;
+    position: absolute;
+    top: 2640px;
+    left: 643px;
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+}
+#mail{
+    position: absolute;
+top: 2632px;
+left: 95px;
+color: white;
+font-size: x-large;
+}
+#subscribe{
+    width: 243px;
+border: 1px solid brown;
+position: absolute;
+top: 2640px;
+left: 1003px;
+text-align: center;
+background-color: brown;
+color: white;
+font-weight: bold;
+}
+#imag1{
+    position: absolute;
+top: 2900px;
+left: 618px;
+height: 20px;
+width: 20px;
+}
+#imag2{
+    position: absolute;
+top: 2900px;
+left: 645px;
+height: 20px;
+width: 20px;
+}
+#imag3{
+    position: absolute;
+    top: 2900px;
+    left: 673px;
+    height: 20px;
+width: 20px;
+}
+#cart{
+    height: 41px;
+    width: 40px;
+}
+.navbar-custom {
+    height: 60px;
+  }
+#menudiv{
+    height: 806px;
+width: 1253px;
+    border: 1px solid black;
+    background-image: url(Images/erin-RnmJaFvDong-unsplash.jpg);
+    filter: blur(7px);
+    background-size: cover;
+    position: absolute;
+    top: 150px;
+    left: 53px;
+}
+#menuimg{
+    height: 809px;
+width: 628px;
+position: absolute;
+top: 148px;
+left: 47px;
+}
+#mep1{
+    position: absolute;
+top: 189px;
+left: 762px;
+font-weight: bold;
+}
+#mep2{
+    position: absolute;
+top: 665px;
+left: 762px;
+font-weight: bold;
+}
+#mep3{
+    position: absolute;
+top: 427px;
+left: 762px;
+font-weight: bold;
+color: black;
+}
+#mep4{
+    position: absolute;
+top: 964px;
+left: 762px;
+font-weight: bold;
+color: black;
+}
+#mep5{
+    position: absolute;
+top: 1259px;
+left: 762px;
+font-weight: bold;
+color: black;
+}
+#mep6{
+    position: absolute;
+top: 1467px;
+left: 762px;
+font-weight: bold;
+color: black;
+}
+#mep7{
+    position: absolute;
+top: 2021px;
+left: 76px;
+font-weight: bold;
+color: black;
+}
+#mep8{
+    position: absolute;
+    top: 2021px;
+    left: 710px;
+    font-weight: bold;
+    color: black;
+}
+span{
+    position: absolute;
+    left: 427px;
+}
+#menu1div{
+    height: 817px;
+width: 1253px;
+    border: 1px solid black;
+    background-image: url(Images/erin-RnmJaFvDong-unsplash.jpg);
+    filter: blur(7px);
+    background-size: cover;
+    position: absolute;
+    top: 949px;
+    left: 53px;
+}
+#menu1img{
+    height: 821px;
+width: 628px;
+position: absolute;
+top: 942px;
+left: 47px;
+}
+#menu2img{
+    height: 821px;
+    width: 628px;
+    position: absolute;
+    top: 1762px;
+    left: 47px;
+}
+#menu3img{
+    height: 821px;
+width: 636px;
+position: absolute;
+top: 1762px;
+left: 675px;
+}
+
+#menuhead{
+    position: absolute;
+    top: 207px;
+    left: 270px;
+    color: white;
+    font-size: 390%;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+nav a:hover{
+    border: 1px solid white;
+}
+.modal-body{
+    background-color: black;
+}
+.modal-header{
+    background-color: black;
+    border: 0px;
+}
+.modal-footer{
+    background-color: black;
+    border: 0px;
+}
+.modal-dialog{
+    max-width: 600px;
+    margin: 6.75rem auto;
+}

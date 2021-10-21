@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+#logo{
+    height: 59px;
+    width: 108px;
+}
+nav{
+    background-color: #161c2d;
+}
+#sfg{
+    font-family: 'Major Mono Display', monospace;
+    font-size: x-large;
+    margin-left: -14px;
+}
+body{
+    background-color: black;
+}
+#footdiv{
+    height: 430px;
+width: 1350px;
+border: 1px solid black;
+position: absolute;
+top: 4200px;
+left: -1px;
+background-color: #000000d4;
+}
+nav a:hover{
+    border: 1px solid white ;
+}
+.navbar-custom {
+    height: 60px;
+  }
+#subdiv
+{
+    height: 70px;
+    width: 1350px;
+    border: 1px solid #161c2d;
+    position: absolute;
+    left: -1px;
+    background-color:#161c2d;
+}
+#addr{
+    position: absolute;
+    top: 4407px;
+    left: 139px;
+    color: white;
+    font-size: large;
+}#social{
+    position: absolute;
+    top: 4407px;
+    left: 618px;
+    color: white;
+    font-size: large;
+}
+#addr1{
+    position: absolute;
+    top: 4486px;
+    left: 139px;
+    color: white;
+    font-size: smaller;
+}
+#hour{
+    position: absolute;
+top: 4407px;
+left: 1063px;
+color: white;
+font-size: large;
+}
+#hour1{
+    position: absolute;
+top: 4486px;
+left: 1066px;
+color: white;
+font-size: smaller;
+}
+#earea{
+    width: 350px;
+    border: 1px solid white;
+    position: absolute;
+    top: 4221px;
+    left: 643px;
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+}
+#mail{
+    position: absolute;
+top: 4215px;
+left: 95px;
+color: white;
+font-size: x-large;
+}
+#subscribe{
+    width: 243px;
+border: 1px solid brown;
+position: absolute;
+top: 4221px;
+left: 1003px;
+text-align: center;
+background-color: brown;
+color: white;
+font-weight: bold;
+}
+#imag1{
+    position: absolute;
+top: 4486px;
+left: 618px;
+height: 20px;
+width: 20px;
+}
+#imag2{
+    position: absolute;
+top: 4486px;
+left: 645px;
+height: 20px;
+width: 20px;
+}
+#imag3{
+    position: absolute;
+    top: 4486px;
+    left: 673px;
+    height: 20px;
+width: 20px;
+}
+#gal1{
+    height: 500px;
+width: 481px;
+position: absolute;
+top: 108px;
+}
+#gal2{
+    height: 500px;
+width: 868px;
+position: absolute;
+top: 108px;
+left: 481px;
+}
+#gal3{
+    height: 564px;
+    width: 445px;
+    position: absolute;
+    top: 608px;
+    left: 0px;
+}
+#gal4{
+    height: 564px;
+width: 445px;
+position: absolute;
+top: 608px;
+left: 445px;
+}
+#gal5{
+    height: 564px;
+    width: 459px;
+    position: absolute;
+    top: 608px;
+    left: 890px;
+}
+#gal6{
+    height: 750px;
+width: 1349px;
+position: absolute;
+top: 1173px;
+}
+#gal7{
+    height: 750px;
+    width: 701px;
+    position: absolute;
+    top: 1923px;
+}
+#gal8{
+    height: 750px;
+    width: 647px;
+    position: absolute;
+    top: 1923px;
+    left: 702px;
+}
+#gal9{
+    height: 340px;
+width: 335px;
+position: absolute;
+top: 2673px;
+}
+#gal10{
+    height: 340px;
+width: 338px;
+position: absolute;
+top: 2673px;
+left: 335px;
+}
+#gal11{
+    height: 340px;
+width: 339px;
+position: absolute;
+top: 2673px;
+left: 673px;
+}
+#gal12{
+    height: 340px;
+width: 335px;
+position: absolute;
+top: 2673px;
+left: 1013px;
+}
+#gal13{
+    height: 470px;
+width: 392px;
+position: absolute;
+top: 3013px;
+left: 83px;
+}
+#gal14{
+    height: 470px;
+width: 399px;
+position: absolute;
+top: 3013px;
+left: 475px;
+}
+#gal15{
+    height: 470px;
+    width: 392px;
+    position: absolute;
+    top: 3013px;
+    right: 83px;
+}
+#gal16{
+    height: 669px;
+    width: 540px;
+    position: absolute;
+    top: 3483px;
+}
+#gal17{
+    height: 669px;
+width: 809px;
+position: absolute;
+top: 3483px;
+left: 540px;
+}
+#gal{
+    position: absolute;
+    top: 366px;
+    left: 802px;
+    color: black;
+    font-size: 433%;
+    font-weight: bold;
+    font-family: 'Cinzel Decorative', cursive;
+}
+#cart{
+    height: 41px;
+    width: 40px;
+}
+.modal-body{
+    background-color: black;
+}
+.modal-header{
+    background-color: black;
+    border: 0px;
+}
+.modal-footer{
+    background-color: black;
+    border: 0px;
+}
+.modal-dialog{
+    max-width: 600px;
+    margin: 6.75rem auto;
+}

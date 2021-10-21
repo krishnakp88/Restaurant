@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+#logo{
+    height: 92px;
+    width: 126px;
+}
+nav{
+    background-color: #161c2d;
+}
+nav a:hover{
+    border: 1px solid white;
+}
+body{
+    background-color: black;
+}
+#sfg{
+    font-family: 'Major Mono Display', monospace;
+    font-size: x-large;   
+    font-family: 'Major Mono Display', monospace;
+}
+#footdiv{
+    height: 430px;
+width: 1350px;
+border: 1px solid black;
+position: absolute;
+top: 1220px;
+left: -1px;
+background-color: #000000d4;
+}
+#subdiv
+{
+    height: 70px;
+    width: 1350px;
+    border: 1px solid #161c2d;
+    position: absolute;
+    left: -1px;
+    background-color:#161c2d;
+}
+#addr{
+    position: absolute;
+    top: 1420px;
+    left: 139px;
+    color: white;
+    font-size: large;
+}#social{
+    position: absolute;
+    top: 1420px;
+    left: 618px;
+    color: white;
+    font-size: large;
+}
+#addr1{
+    position: absolute;
+    top: 1526px;
+    left: 139px;
+    color: white;
+    font-size: smaller;
+}
+#hour{
+    position: absolute;
+top: 1420px;
+left: 1063px;
+color: white;
+font-size: large;
+}
+#hour1{
+    position: absolute;
+top: 1526px;
+left: 1066px;
+color: white;
+font-size: smaller;
+}
+#earea{
+    width: 350px;
+    border: 1px solid white;
+    position: absolute;
+    top: 1244px;
+    left: 643px;
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+}
+#mail{
+    position: absolute;
+top: 1236px;
+left: 95px;
+color: white;
+font-size: x-large;
+}
+#subscribe{
+    width: 243px;
+border: 1px solid brown;
+position: absolute;
+top: 1244px;
+left: 1003px;
+text-align: center;
+background-color: brown;
+color: white;
+font-weight: bold;
+}
+#imag1{
+    position: absolute;
+top: 1526px;
+left: 618px;
+height: 20px;
+width: 20px;
+}
+#imag2{
+    position: absolute;
+top: 1526px;
+left: 645px;
+height: 20px;
+width: 20px;
+}
+#imag3{
+    position: absolute;
+    top: 1526px;
+    left: 673px;
+    height: 20px;
+width: 20px;
+}
+#cart{
+    height: 46px;
+    width: 40px;
+}
+.formdiv{
+    width: 512px;
+position: absolute;
+top: 558px;
+left: 792px;
+padding: 20px;
+color: white;
+ background-image: url(Images/bundo-kim-vYcADOyUrdA-unsplash.jpg);
+background-size: cover; }
+
+#reserimg{
+    height: 987px;
+width: 1246px;
+position: absolute;
+top: 171px;
+left: 58px;
+}
+#restitle{
+    position: absolute;
+top: 206px;
+left: 998px;
+font-size: 247%;
+font-weight: bold;
+font-family: 'Cinzel Decorative', cursive;
+}
+#respara{
+    position: absolute;
+top: 289px;
+left: 993px;
+font-size: 27px;
+}
+#span1{
+    position: absolute;
+    left: -54px;
+}
+#span2{
+    position: absolute;
+    left:-111px;
+}
+#span3{
+    position: absolute;
+    left: -15px;
+}
+.modal-body{
+    background-color: black;
+}
+.modal-header{
+    background-color: black;
+    border: 0px;
+}
+.modal-footer{
+    background-color: black;
+    border: 0px;
+}
+.modal-dialog{
+    max-width: 600px;
+    margin: 6.75rem auto;
+}
